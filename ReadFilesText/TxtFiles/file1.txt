@@ -1,0 +1,2 @@
+In this project, you'll learn how to use regular expressions and file handling in Python to extract the first sentence from every text file in a directory. 
+This is especially useful for summarizing or previewing content across multiple documents.
