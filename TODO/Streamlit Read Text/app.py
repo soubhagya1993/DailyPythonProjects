@@ -1,0 +1,2 @@
+# In this project, you'll create a Streamlit app that reads numerical data from text files in a folder and visualizes 
+# it using a line chart. This combines file handling, data processing with pandas, and interactive plotting with Streamlit.
